@@ -19,7 +19,7 @@ This is the official repository for our ICLR 2025 paper **Graph-based Document S
 ## 🔎 Introduction
 we construct a relation graph-based document structure analysis dataset (GraphDoc), enabling training models to complete tasks like reading order, hierarchical structure analysis, and complex inter-element relation inference. Furthermore, a document relation graph generator (DRGG) is proposed to address the tasks.
 <p align="center">
-    <img src="assets/GraphDoc.png" width="360" />
+    <img src="assets/GraphDoc.png" width="480" />
 </p>
 
 ## 📝 Catalog
