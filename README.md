@@ -35,10 +35,10 @@ Code and Implementation details will come soon!
 ## 🌳 Citation
 If you find this code useful for your research, please consider citing:
 ```
-@inproceedings{chen2024rodla,
-      title={RoDLA: Benchmarking the Robustness of Document Layout Analysis Models}, 
-      author={Yufan Chen and Jiaming Zhang and Kunyu Peng and Junwei Zheng and Ruiping Liu and Philip Torr and Rainer Stiefelhagen},
-      booktitle={CVPR},
-      year={2024}
+@inproceedings{chen2025graphdoc,
+      title={Graph-based Document Structure Analysis}, 
+      author={Yufan Chen and Ruiping Liu and Junwei Zheng and Di Wen and Kunyu Peng and Jiaming Zhang and Rainer Stiefelhagen},
+      booktitle={ICLR},
+      year={2025}
 }
 ```
