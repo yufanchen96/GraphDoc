@@ -9,12 +9,11 @@
     <img src="https://img.shields.io/badge/Framework-PyTorch%201.10.2-orange" /></a>
     <a href="https://github.com/yufanchen96/GraphDoc/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" /></a>
-    <img alt="visits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyufanchen96%2FRoDLA&count_bg=%23A53DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
 </p>
 
 ## 🏡 Project Homepage
 
-This is the official repository for our ICLR 2025 paper **Graph-based Document Structure Analysis**. For more results  details, please visit our [project homepage](https://yufanchen96.github.io/projects/GraphDoc/).
+This is the official repository for our ICLR 2025 paper **Graph-based Document Structure Analysis**. For more results and details, please visit our [project homepage](https://yufanchen96.github.io/projects/GraphDoc/).
     
 ## 🔎 Introduction
 we construct a relation graph-based document structure analysis dataset (GraphDoc), enabling training models to complete tasks like reading order, hierarchical structure analysis, and complex inter-element relation inference. Furthermore, a document relation graph generator (DRGG) is proposed to address the tasks.
